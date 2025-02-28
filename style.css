@@ -20,7 +20,7 @@ h2 {
 p {
  font-size:16pt;
 }
-
+/* changed list points from squares to circles */
 ul.a {
  list-style-type: circle;
 }
