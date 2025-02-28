@@ -1,0 +1,21 @@
+/*
+style.css
+demonstrates basic CSS rules
+*/
+
+body {
+ background-color: #666699;
+}
+
+h1 {
+ font-family: "Courier New", Arial, monospace;
+ color: #000066;
+}
+
+p {
+ font-size:12pt;
+}
+
+ul.a {
+ list-style-type: circle;
+}
